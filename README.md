@@ -5,8 +5,6 @@ The purpose of this analysis was to look over the data for a month of citibike r
 [Link to the interactive Tableau Story](https://public.tableau.com/app/profile/andy.buck8221/viz/citibike_workbook/CitibikeinDesMoines?publish=yes)
 ### Citibike Users
 ![](https://github.com/mabuckjr/bikesharing/blob/main/Resources/customer_type.PNG)
-
-Most of our users at in NYC are Subscribers. Des Moines should expect a similar proportion of users if marketed in a similar manner
+#### Most of our users at in NYC are Subscribers. Des Moines should expect a similar proportion of users if marketed in a similar manner
 ![](https://github.com/mabuckjr/bikesharing/blob/main/Resources/customer_type_gender.PNG)
-
-Our users also tend to identify as "Male," so the primary target audience would be men. As you will see in the charts below, most of the rides start around 8-9am and 4-5pm, suggesting that male commuters make up the majority of our userbace in NYC.
+#### Our users also tend to identify as "Male," so the primary target audience would be men. As you will see in the charts below, most of the rides start around 8-9am and 4-5pm, suggesting that male commuters make up the majority of our userbace in NYC.
