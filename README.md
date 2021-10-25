@@ -20,3 +20,9 @@ The purpose of this analysis was to look over the data for a month of citibike r
 #### Trips tend to be short, most of them being 20 minutes or less.
 ![](https://github.com/mabuckjr/bikesharing/blob/main/Resources/trip_duration_gender.PNG)
 #### Gender doesn't seem to be much of a factor in trip duration, as the peaks for males and females follows a similar pattern. The unknown category may not use the bikes for commuting as much from the looks of this trend.
+## Summary
+The results show clear trends: working males are the dominant target audience, and the times the bikes are most used are during weekdays during the usual morning and afternoon commutes. Des Moines is a very different city in NYC, but there's a good chance that this trend would carry over. While tourists would likely use these bikes on weekends, it's not likely they would make up a large percentage of riders in Des Moines (especially since it isn't considered as much of a tourist destination as NYC). The fact that women aren't using the bikes as much as men means that there's a chance for Des Moines to capitalize on a market that NYC hasn't been able to attract. Perhaps the marketing team can do some research on how to best attract different usertypes once it the bikes are deployed. 
+
+I would suggest that an analysis is done to find the relationship between birth year and trip duration, as well as trip frequency. This will help us better understand how different age groups tend to use citibike. These charts would best be displayed as bar charts, perhaps with a filter for gender as well.
+
+Another chart that could be helpful would be to find the average distance travelled per trip, as well as the average total mileage completed for the month. This could be displayed in a variety of ways, comparing it to age, gender, or even usertype. This would help us get a better idea of how many miles our bikes travel in a given month.
